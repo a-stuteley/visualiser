@@ -1,2 +1,1 @@
-# visualiser
-Official Statistics Visualiser
+# Official Statistics Visualiser
